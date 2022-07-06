@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan910" alt="farhan910" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk7022" alt="omarfaruk7022" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/farhanf05203436" target="blank"><img src="https://img.shields.io/twitter/follow/farhanf05203436?logo=twitter&style=for-the-badge" alt="farhanf05203436" /></a> </p>
 
