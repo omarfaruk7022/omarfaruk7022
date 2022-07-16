@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **omarfaruk7022@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3OIrU0j](https://bit.ly/3OIrU0j)
+- 📄 Know about my experiences [https://bit.ly/3Pfiqdv](https://bit.ly/3Pfiqdv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
