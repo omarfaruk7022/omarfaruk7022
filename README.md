@@ -22,8 +22,8 @@
 <a href="https://fb.com/omar.faruk.7022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan.faruk.9022" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk7022&show_icons=true&locale=en&layout=compact" alt="omarfaruk7022" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk7022&show_icons=true&locale=en&layout=compact" alt="omarfaruk7022" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarfaruk7022&show_icons=true&locale=en" alt="omarfaruk7022" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omarfaruk7022&show_icons=true&locale=en" alt="omarfaruk7022" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk7022&" alt="omarfaruk7022" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk7022&" alt="omarfaruk7022" /></p>
