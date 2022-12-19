@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.ibb.co/rmKbjyf/Brown-Modern-Graphic-Designer-Linked-In-Article-Cover-Image-1.png"/></p>
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
