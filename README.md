@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/farhanf05203436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhanf05203436" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-omar-faruk7022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-omar-faruk7022/" height="30" width="40" /></a>
-<a href="https://fb.com/farhan.faruk.9022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan.faruk.9022" height="30" width="40" /></a>
+<a href="https://fb.com/omar.faruk.7022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan.faruk.9022" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk7022&show_icons=true&locale=en&layout=compact" alt="omarfaruk7022" /></p>
