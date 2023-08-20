@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/9967YbP/cover.png"/></p>
+<p align="center"><img src="https://i.ibb.co/25Dmb9C/cover.png"/></p>
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
