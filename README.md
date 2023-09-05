@@ -6,6 +6,7 @@
 <p align="center"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk7022" alt="omarfaruk7022" /></a> </p>
 
 
+## ⚡ Contact with me 
 
 - 🌱 I’m currently learning **React Native , Nextjs**
 
@@ -30,12 +31,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a target="_blank" href="https://twitter.com/farhanf05203436" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhanf05203436" height="30" width="40" /></a>
-<a target="_blank" href="https://linkedin.com/in/md-omar-faruk7022/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-omar-faruk7022/" height="30" width="40" /></a>
-<a target="_blank" href="https://fb.com/omar.faruk.7022" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan.faruk.9022" height="30" width="40" /></a>
-</p>
+
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk7022&show_icons=true&locale=en&layout=compact" alt="omarfaruk7022" /></p>
 
