@@ -4,7 +4,6 @@
 
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
 
 ## ⚡ About me 
@@ -32,7 +31,10 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+</div>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk7022&show_icons=true&locale=en&layout=compact" alt="omarfaruk7022" /></p>
 
