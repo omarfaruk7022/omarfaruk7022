@@ -6,13 +6,13 @@
 <p align="center"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk7022" alt="omarfaruk7022" /></a> </p>
 
 
-## ⚡ Contact with me 
+## ⚡ About me 
 
-- 🌱 I’m currently learning **React Native , Nextjs**
+- 🌱 I’m a MERN-stack | Fron-end Developer in **Reactjs , Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://omarfarukdev.vercel.app/](https://omarfarukdev.vercel.app/)
 
-- 💬 Ask me about **MERN ,Reactjs**
+- 💬 Ask me about **MERN ,Reactjs, Nextjs**
 
 - 📫 How to reach me **omarfaruk7022@gmail.com**
 
