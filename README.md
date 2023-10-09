@@ -11,7 +11,7 @@
 - 🌱 I’m a MERN-stack | Fron-end Developer in **Reactjs , Nextjs**
 
 - 👨‍💻 All of my projects are available at <a href="https://omarfarukdev.vercel.app/">
-My portfolio
+My Portfolio
 
 </a>
 - 💬 Ask me about MERN ,Reactjs, Nextjs
