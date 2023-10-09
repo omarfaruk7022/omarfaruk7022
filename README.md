@@ -14,7 +14,7 @@
 My portfolio
 
 </a>
-- 💬 Ask me about **MERN ,Reactjs, Nextjs**
+- 💬 Ask me about MERN ,Reactjs, Nextjs
 
 - 📫 How to reach me **omarfaruk7022@gmail.com**
 
