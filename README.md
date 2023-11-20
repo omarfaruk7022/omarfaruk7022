@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/9967YbP/cover.png"/></p>
 <h1 align="center">Hi 👋, I'm Muhammad Omar Faruk</h1>
-<h3 align="center">A passionate Full-Stack Reactsjs Developer from Bangladesh</h3>
+<h3 align="center">A passionate Front-end Reactsjs Developer from Bangladesh</h3>
 
 
 
