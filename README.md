@@ -13,7 +13,6 @@
 - 👨‍💻 All of my projects are available at <a href="https://omarfarukdev.vercel.app/" target="_blank">
 My Portfolio
 
-</a>
 - 💬 Ask me about MERN ,Reactjs, Nextjs
 
 - 📫 How to reach me **omarfaruk7022@gmail.com**
