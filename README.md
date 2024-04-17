@@ -10,7 +10,7 @@
 
 - 🌱 I’m a MERN-stack | Fron-end Developer in **Reactjs , Nextjs**
 
-- 👨‍💻 All of my projects are available at <a href="https://omarfarukdev.vercel.app/" target="_blank">
+- 👨‍💻 All of my projects are available in <a href="https://omarfarukdev.vercel.app/" target="_blank">
 My portfolio
 
 - 💬 Ask me about MERN ,Reactjs, Nextjs
