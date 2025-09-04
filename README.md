@@ -10,7 +10,7 @@
 
 - 🌱 I’m a Fronend Developer in **Reactjs , Nextjs**
 
-- 👨‍💻 All of my projects are available in <a href="https://www.muhammadomarfaruk.me/" target="_blank">
+- 👨‍💻 All of my projects are available in <a href="https://www.muhammadomarfaruk.com/" target="_blank">
 My Portfolio
 
 - 💬 Ask me about MERN ,Reactjs, Nextjs
