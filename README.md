@@ -35,10 +35,10 @@ My Portfolio
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk7022&" alt="omarfaruk7022" /></p>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omarfaruk7022&show_icons=true&locale=en" alt="omarfaruk7022" /></p>
+<!-- <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omarfaruk7022&show_icons=true&locale=en" alt="omarfaruk7022" /></p>
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk7022&show_icons=true&locale=en&layout=compact" alt="omarfaruk7022" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omarfaruk7022&show_icons=true&locale=en&layout=compact" alt="omarfaruk7022" /></p> -->
 
 
 ## ⚡ Connect with me 
