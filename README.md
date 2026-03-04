@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available in <a href="https://www.muhammadomarfaruk.com/" target="_blank">
 My Portfolio
 
-- 💬 Ask me about MERN ,Reactjs, Nextjs
+- 💬 Ask me about MERN, ReactJS, NextJS
 
 - 📫 How to reach me **omarfaruk7022@gmail.com**
 
