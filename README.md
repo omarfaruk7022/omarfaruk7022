@@ -32,10 +32,6 @@ My Portfolio
 
 ## ⚡Performance 
 
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-</div>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk7022&" alt="omarfaruk7022" /></p>
 
